@@ -1,7 +1,7 @@
-import potion_class
-import containers
-import cooking
-import inspection
+import brewing.potion_class
+import brewing.containers
+import brewing.cooking
+import brewing.inspection
 
 
 def make_example_potion(student_name="ASPP student"):
